@@ -11,7 +11,7 @@
 [![Issue Stats](https://img.shields.io/issuestats/i/github/gaetanozappi/react-native-gradient-letter-icon.svg?style=flat&colorB=44cc11)](http://github.com/gaetanozappi/react-native-gradient-letter-icon/issues)
 [![github license](https://img.shields.io/github/license/gaetanozappi/react-native-gradient-letter-icon.svg)]()
 
-<img src="https://github.com/gaetanozappi/react-native-android-function/raw/master/screenshotreact-native-gradient-letter-icon.png" />
+<img src="https://raw.githubusercontent.com/gaetanozappi/react-native-gradient-letter-icon/master/screenshot/react-native-gradient-letter-icon.png" />
 
 -   [Usage](#-usage)
 -   [License](#-license)
